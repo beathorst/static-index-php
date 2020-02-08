@@ -1,3 +1,3 @@
 <?php
 
-echo $SERVER['HOSTNAME'];
+echo $_SERVER['SERVER_NAME'];
